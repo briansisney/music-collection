@@ -17,7 +17,7 @@ Some other stipulations:
 
 - Assume that there can never be two albums with the same title in the system (even if they were to have different artists). The user shouldn't be allowed to add two albums with the same title.
 
- - **Do not** use a persistence mechanism (ie, a SQL database) for the albums. Store them in memory. That is, every time you run the program, the list of albums should be empty. 
+- **Do not** use a persistence mechanism (ie, a SQL database) for the albums. Store them in memory. That is, every time you run the program, the list of albums should be empty. 
 
 
 ## Running the program
